@@ -1,5 +1,5 @@
 * Generated payment details for Accounts departments (2)
-* Assisted enforcement unit in ploting out property owner name as against records to be enforced upon
+* Assisted enforcement unit in plotting out property owner name as against records to be enforced upon
 * Generated total properties/street/district/LGA for amuwo and alimosho lga's
 * Generated total streets in amuwo with their parcel id for GIS unit
 * Worked on pending complaints in the department (4)
