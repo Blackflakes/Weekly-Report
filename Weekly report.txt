@@ -1,3 +1,6 @@
 * Generated payment details for Accounts departments (2)
 * Assisted enforcement unit in ploting out property owner name as against records to be enforced upon
 * Worked on pending complaints in the department (4)
+* Total complaint unresolved  (10)
+* Total duplicate records unresolved (8)
+* Unlinked wrongly attached pod (5)
