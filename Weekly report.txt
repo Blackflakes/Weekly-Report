@@ -1,6 +1,10 @@
 * Generated payment details for Accounts departments (2)
 * Assisted enforcement unit in ploting out property owner name as against records to be enforced upon
+* Generated total properties/street/district/LGA for amuwo and alimosho
+* Generated total streets in amuwo with their parcel id for GIS
 * Worked on pending complaints in the department (4)
 * Total complaint unresolved  (10)
 * Total duplicate records unresolved (8)
 * Unlinked wrongly attached pod (5)
+* Provided support for all users.
+
