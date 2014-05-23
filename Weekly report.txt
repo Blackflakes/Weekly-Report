@@ -3,8 +3,8 @@
 * Generated total properties/street/district/LGA for amuwo and alimosho
 * Generated total streets in amuwo with their parcel id for GIS
 * Worked on pending complaints in the department (4)
-* Total complaint unresolved  (10)
+* Total complaints unresolved  (10)
 * Total duplicate records unresolved (8)
 * Unlinked wrongly attached pod (5)
-* Provided support for all users.
-
+* Provided support for all users on the network.
+* Installed anti-virus in (Verification,Account,Csu)
