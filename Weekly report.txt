@@ -1,10 +1,15 @@
-* Generated payment details for Accounts departments (1)
-* District update for Ojo lga
-* Pcr update for billing unit
-* 
+* Generated payment details for Accounts departments (2)
+* Assisted enforcement unit in plotting out property owner name as against    records to be enforced upon
+* Generated total properties/street/district/LGA for amuwo and alimosho
+* Generated total streets in amuwo with their parcel id for GIS
 * Worked on pending complaints in the department (4)
-* Total complaints unresolved  (1)
-* Total duplicate records unresolved (3)
-* Transfered online complaint onto the software interface ()
-* Provided support for all users on the network
-* 
+* Total complaint unresolved  (12)
+* Total duplicate records unresolved (8)
+* Unlinked wrongly attached pod (5)
+* Transferred online complaint unto the software interface (16)
+* Uploaded Ikeja PODs onto the database
+* Uploaded Mainland pictures onto the database
+* Installed antivirus on system in (photobase, verification,Account,Csu) unit
+* Provided software solution for printing pictures
+* Printed pictures for Badagry office
+* Provided support for all users.
